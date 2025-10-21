@@ -130,15 +130,6 @@ const projects = [
     year: "2024",
     link: "https://itsnurulpru.tiiny.site/",
   },
-  {
-    image: "img/landing-page.png",
-    title: "Landing Page 3",
-    description:
-      "A simple promotional page for a cake shop. Made for a college project.",
-    tech: "HTML5, CSS, Javascript",
-    year: "2024",
-    link: "https://itsnurulpru.tiiny.site/",
-  },
 ];
 
 const perPage = 5;
